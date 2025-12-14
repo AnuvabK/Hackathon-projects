@@ -1,0 +1,3 @@
+The program takes in a json file with the name of the file, start position and end position 
+aswell as infomation on every tile such as speed and direction, using this infomation the program
+finds the optimal path the boat should take to optimise for time 
